@@ -7,4 +7,8 @@
 }
 
 :root {
+  --darker-color: #495c83;
+  --dark-color: #7a86b6;
+  --light-color: #a8a4ce;
+  --lighter-color: #c8b6e2;
 }
