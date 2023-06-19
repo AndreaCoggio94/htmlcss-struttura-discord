@@ -11,7 +11,7 @@
 
 /* header */
 
-header {
+.top-header {
   background-color: var(--lighter-color);
   min-height: 80px;
 }
@@ -24,7 +24,7 @@ header .container {
 /* bottom header */
 
 .bottom-header {
-  background-color: var(--dark-color);
+  background-color: var(--darker-color);
   height: 600px;
   justify-content: center;
 }
@@ -35,7 +35,7 @@ header .container {
   margin: 50px;
 }
 
-/* first section */
+/* section */
 
 .section {
   height: 700px;
@@ -55,5 +55,8 @@ header .container {
 
 .flex-row-reverse {
   flex-direction: row-reverse;
+}
+
+.alternate-background {
   background-color: var(--dark-color);
 }
