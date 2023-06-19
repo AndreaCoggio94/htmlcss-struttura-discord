@@ -60,3 +60,16 @@ header .container {
 .alternate-background {
   background-color: var(--dark-color);
 }
+
+/* last informations */
+
+.section-big {
+  height: 1000px;
+  justify-content: center;
+}
+
+.box-big {
+  margin: 50px 0;
+  width: 80%;
+  background-color: var(--darker-color);
+}
