@@ -1,6 +1,8 @@
 /* General */
 
 .container {
+  width: 80%;
+  margin: auto;
 }
 
 .flex-container {
@@ -12,4 +14,9 @@
 header {
   background-color: var(--lighter-color);
   min-height: 80px;
+}
+
+header .container {
+  background-color: var(--light-color);
+  height: 40px;
 }
