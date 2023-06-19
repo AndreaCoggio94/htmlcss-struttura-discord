@@ -1,0 +1,15 @@
+/* General */
+
+.container {
+}
+
+.flex-container {
+  display: flex;
+}
+
+/* header */
+
+header {
+  background-color: var(--lighter-color);
+  min-height: 80px;
+}
