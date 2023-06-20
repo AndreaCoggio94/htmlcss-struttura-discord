@@ -27,7 +27,6 @@
 .top-header > .container {
   background-color: var(--light-color);
   height: 40px;
-  margin: 20px auto;
   justify-content: space-between;
 }
 
